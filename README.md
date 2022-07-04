@@ -1,2 +1,11 @@
 # Solid-Prensipler-1.-Single-Responsibility-Example
-Bu Örnekde Single Responsibility Prensibine Örnek Vereceğiz
+Merhabalar
+
+Bu örnekde Temel olarak Single responsibility Prensibini Ele aldık ama sadece bu prensibi kullanmadık 
+Bu Örnekde Kullanılan Prensibler
+
+1. Single Responsibility Prensibi => Her bir Mesaj
+2. Open Closed => Değişime Kapalı Gelişime Açık Bir Şekilde Örnekledik
+3. Dependency Inversion => Her Mesaj Service Nesnesini Message Abstract Classı ile soyutlayarak Bağımlılıktan Kurtulmuş olduk ilerleyen dönemlerde daha farklı mesaj gönderme servisleri ekleyebiliriz 
+
+Vakit ayırdığınız için teşekkür ediyorum- Yazılım Uzmanı Ferhat Aldemir
