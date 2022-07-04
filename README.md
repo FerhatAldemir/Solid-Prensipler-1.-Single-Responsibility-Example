@@ -4,7 +4,7 @@ Merhabalar
 Bu örnekde Temel olarak Single responsibility Prensibini Ele aldık ama sadece bu prensibi kullanmadık 
 Bu Örnekde Kullanılan Prensibler
 
-1. Single Responsibility Prensibi => Her bir Mesaj
+1. Single Responsibility Prensibi => Her bir Mesaj servisi kendi özelliklerini barındıracak şekilde kapsüllemesini gerçekleştirdik ve her bir nesneye sadece bir görev atamış olduk
 2. Open Closed => Değişime Kapalı Gelişime Açık Bir Şekilde Örnekledik
 3. Dependency Inversion => Her Mesaj Service Nesnesini Message Abstract Classı ile soyutlayarak Bağımlılıktan Kurtulmuş olduk ilerleyen dönemlerde daha farklı mesaj gönderme servisleri ekleyebiliriz 
 
