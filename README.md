@@ -1,7 +1,7 @@
 
 Merhabalar
 
-Bu Örnekde Kullanı Prensibler
+Bu Örnekde Kullanılan Prensibler
 
 1. Single Responsibility Prensibi => Her bir Mesaj servisi kendi özelliklerini barındıracak şekilde kapsüllemesini gerçekleştirdik ve her bir nesneye sadece bir görev atamış olduk
 2. Open Closed => Değişime Kapalı Gelişime Açık Bir Şekilde Örnekledik
