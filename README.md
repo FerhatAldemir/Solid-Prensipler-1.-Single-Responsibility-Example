@@ -5,7 +5,7 @@ Bu Örnekde Kullanılan Prensibler
 
 1. Single Responsibility Prensibi => Her bir Mesaj servisi kendi özelliklerini barındıracak şekilde kapsüllemesini gerçekleştirdik ve her bir nesneye sadece bir görev atamış olduk
 2. Open Closed => Değişime Kapalı Gelişime Açık Bir Şekilde Örnekledik
-3. Dependency Inversion =>Dependency Injection desing pattern kullanarak Her Mesaj Service Nesnesini Message Abstract Classı ile soyutlamış olduk bu durum bizi bağımlılıktan kurtarmış oldu ilerleyen dönemlerde daha farklı mesaj gönderme servisleri ekleyebiliriz 
+3. Dependency Inversion =>Dependency Injection desing pattern kullanarak Her Mesaj Service Nesnesini Message Abstract Classı ile soyutlamış olduk bu durum bizi bağımlılıktan kurtarmış oldu.
 
 Tanımlar
 
