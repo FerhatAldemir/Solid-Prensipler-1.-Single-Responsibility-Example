@@ -15,7 +15,7 @@ namespace Single_Responsibility_Example
             ISenderService SenderService = new SenderManager(new MailSend() {TextMessage = "Merhaba",To="frtaldemir@hotmail.com" });
             SenderService.Send();
 
-            SenderService = new SenderManager(new SmsSend() { TextMessage = "Merhaba", To = "0542XXXXXXX" });
+            SenderService = new SenderManager(new SmsSend() { TextMessage = "Merhaba", To = "05XXXXXXXXX" });
             SenderService.Send();
             Console.ReadLine();
         }
