@@ -1,10 +1,11 @@
-﻿using System;
+﻿using Single_Responsibility_Example.Absraction;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Single_Responsibility_Example
+namespace Single_Responsibility_Example.Concrate
 {
     public class MailSend : Message
     {

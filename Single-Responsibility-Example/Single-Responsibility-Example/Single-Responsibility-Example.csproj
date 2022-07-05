@@ -43,13 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="MailSend.cs" />
-    <Compile Include="Message.cs" />
+    <Compile Include="Concrate\MailSend.cs" />
+    <Compile Include="Absraction\Message.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="ISenderService.cs" />
-    <Compile Include="SenderManager.cs" />
-    <Compile Include="SmsSend.cs" />
+    <Compile Include="Absraction\ISenderService.cs" />
+    <Compile Include="Concrate\SenderManager.cs" />
+    <Compile Include="Concrate\SmsSend.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
