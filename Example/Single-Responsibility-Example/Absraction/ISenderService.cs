@@ -8,8 +8,8 @@ namespace Single_Responsibility_Example.Absraction
 {
     public interface ISenderService
     {
-        
-        void Send();
 
+        void Send();
+       //test
     }
 }
