@@ -10,6 +10,6 @@ namespace Single_Responsibility_Example.Absraction
     {
 
         void Send();
-       //test
+      
     }
 }
